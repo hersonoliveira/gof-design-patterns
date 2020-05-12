@@ -1,5 +1,4 @@
-package com.patternsval dialog = new WindowsDialog
-    di.singleton
+package com.patterns.singleton
 
 object Singleton {
 
